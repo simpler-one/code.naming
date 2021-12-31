@@ -1,0 +1,8 @@
+application: app
+current: cur
+device: dvc
+destination: [dst, dest]
+index: [i, idx]
+previous: prev
+service: svc
+source: src
