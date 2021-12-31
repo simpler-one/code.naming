@@ -3,6 +3,7 @@
 - Wording
   - [和英](./wording/ja-en.yaml)
   - [英和](./wording/en-ja.yaml)
+  - [Clipped / 短縮形](./wording/clipped.yaml)
 - Rules
   - [Scope / スコープ](./rules/scope.md)
 
