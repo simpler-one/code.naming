@@ -2,7 +2,7 @@
 ## Index / 目次
 - Wording
   - [和英](./wording/ja-en.yaml)
-  - [英和](./wording/ja-en.yaml)
+  - [英和](./wording/en-ja.yaml)
 - Rules
   - [Scope / スコープ](./rules/scope.md)
 
