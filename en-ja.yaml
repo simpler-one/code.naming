@@ -1,0 +1,14 @@
+Noun:
+  item: [要素, 項目]
+  parent: 親
+  child: 子
+  ancestor: 先祖
+  descendant: 子孫
+
+
+Verb:
+  return:    返却
+  set:       設定
+  compare:   比較
+  determine: [決定, 判断]
+  add:       追加
