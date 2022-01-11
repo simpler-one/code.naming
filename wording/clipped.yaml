@@ -1,8 +1,10 @@
 application: app
+column: col
+configuration: [config, conf]
 current: cur
-device: dvc
 destination: [dst, dest]
 index: [i, idx]
+message: msg
 previous: prev
 service: svc
 source: src
